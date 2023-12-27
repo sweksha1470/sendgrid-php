@@ -1,4 +1,4 @@
-test/coverage/*
+
 dist/
 composer.lock
 vendor
@@ -6,7 +6,7 @@ vendor
 sendgrid.env
 composer.phar
 .editorconfig
-test.php
+
 .idea/
 *.code-workspace
 .vscode
